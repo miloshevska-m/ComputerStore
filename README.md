@@ -23,7 +23,7 @@ cd ComputerStore
 Update-Database
 ```
 
-### 5. Add data in Tables
+### 4. Add data in Tables
 - To add sample data to the database, you can execute the following SQL script:
 ```sql
 INSERT INTO [ComputerStoreDb].[dbo].[Categories] ([Name], [Description])
