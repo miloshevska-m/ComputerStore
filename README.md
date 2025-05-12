@@ -24,7 +24,9 @@ Update-Database
 ```
 
 ### 4. Add data in Tables
-- To add sample data to the database, you can execute the following SQL script:
+To add sample data to the database, you can:
+- Run the back up file of the database or
+- Execute the following SQL script:
 ```sql
 INSERT INTO [ComputerStoreDb].[dbo].[Categories] ([Name], [Description])
 VALUES
