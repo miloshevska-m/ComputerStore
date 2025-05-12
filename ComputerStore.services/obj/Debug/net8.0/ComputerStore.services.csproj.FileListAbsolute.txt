@@ -1,0 +1,15 @@
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.services\obj\Debug\net8.0\ComputerStore.services.csproj.AssemblyReference.cache
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.services\obj\Debug\net8.0\ComputerStore.services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.services\obj\Debug\net8.0\ComputerStore.services.AssemblyInfoInputs.cache
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.services\obj\Debug\net8.0\ComputerStore.services.AssemblyInfo.cs
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.services\obj\Debug\net8.0\ComputerStore.services.csproj.CoreCompileInputs.cache
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.services\bin\Debug\net8.0\ComputerStore.services.deps.json
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.services\bin\Debug\net8.0\ComputerStore.services.dll
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.services\bin\Debug\net8.0\ComputerStore.services.pdb
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.services\bin\Debug\net8.0\ComputerStore.data.dll
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.services\bin\Debug\net8.0\ComputerStore.data.pdb
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.services\obj\Debug\net8.0\Computer.ADBF6157.Up2Date
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.services\obj\Debug\net8.0\ComputerStore.services.dll
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.services\obj\Debug\net8.0\refint\ComputerStore.services.dll
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.services\obj\Debug\net8.0\ComputerStore.services.pdb
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.services\obj\Debug\net8.0\ref\ComputerStore.services.dll

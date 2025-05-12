@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JxSK1tixccFvU7YQdBQHNLCIXntMXts+IiFI1pzO97g=",
+  "Source": "ComputerStore.WebAPI",
+  "BasePath": "_content/ComputerStore.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

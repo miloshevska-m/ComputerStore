@@ -1,0 +1,14 @@
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.data\bin\Debug\net8.0\ComputerStore.data.deps.json
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.data\bin\Debug\net8.0\ComputerStore.data.runtimeconfig.json
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.data\bin\Debug\net8.0\ComputerStore.data.dll
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.data\bin\Debug\net8.0\ComputerStore.data.pdb
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.data\obj\Debug\net8.0\ComputerStore.data.csproj.AssemblyReference.cache
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.data\obj\Debug\net8.0\ComputerStore.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.data\obj\Debug\net8.0\ComputerStore.data.AssemblyInfoInputs.cache
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.data\obj\Debug\net8.0\ComputerStore.data.AssemblyInfo.cs
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.data\obj\Debug\net8.0\ComputerStore.data.csproj.CoreCompileInputs.cache
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.data\obj\Debug\net8.0\ComputerStore.data.dll
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.data\obj\Debug\net8.0\refint\ComputerStore.data.dll
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.data\obj\Debug\net8.0\ComputerStore.data.pdb
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.data\obj\Debug\net8.0\ComputerStore.data.genruntimeconfig.cache
+C:\Users\MIHAELA-PC\source\repos\ComputerStore.WebAPI\ComputerStore.data\obj\Debug\net8.0\ref\ComputerStore.data.dll
