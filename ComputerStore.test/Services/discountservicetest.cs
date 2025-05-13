@@ -26,7 +26,6 @@ namespace ComputerStore.test.Services
         [Fact]
         public async Task CalculateDiscountAsync_ShouldApply5Percent_WhenMultipleItemsInSameCategory()
         {
-            // Arrange
             var cart = new ShoppingbasketDTO
             {
                 Items = new List<BasketDTO>
@@ -46,10 +45,8 @@ namespace ComputerStore.test.Services
                 .Setup(repo => repo.GetProductsByIdsAsync(It.IsAny<IEnumerable<int>>()))
                 .ReturnsAsync(products);
 
-            // Act
             var discount = await _discountService.CalculateDiscountAsync(cart);
 
-            // Assert
             var expectedDiscount = (1000 * 0.05m) + (500 * 0.05m); // 50 + 25 = 75
             Assert.Equal(expectedDiscount, discount);
         }
